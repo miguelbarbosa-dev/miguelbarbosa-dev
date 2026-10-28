@@ -11,18 +11,15 @@ Busco aprimorar continuamente minhas habilidades técnicas por meio de projetos 
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-30363D?style=for-the-badge&logo=pandas&logoColor=E6EDF3" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-30363D?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-30363D?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power_BI-30363D?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-30363D?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel" />
-  <img src="https://img.shields.io/badge/DAX-30363D?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" />
-  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" />
+  <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Power BI" title="Power BI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+  <img alt="Excel" title="Excel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
-
----
 
 ### 📊 Competências Técnicas
 
