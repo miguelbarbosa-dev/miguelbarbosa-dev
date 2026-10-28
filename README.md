@@ -1,4 +1,4 @@
-# Miguel Henrique
+# 👨‍💻 Miguel Henrique
 
 **`Análise de Dados | Python | SQL | Power BI`**
 
@@ -14,12 +14,14 @@ Busco aprimorar continuamente minhas habilidades técnicas por meio de projetos 
   <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="Power BI" title="Power BI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
-  <img alt="Excel" title="Excel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img alt="SQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Power BI" title="Power BI" width="35px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img alt="Excel" title="Microsoft Excel" width="35px" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
+
+---
 
 ### 📊 Competências Técnicas
 
