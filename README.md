@@ -17,11 +17,6 @@ Tenho interesse em transformar dados em informações relevantes por meio de an�
   <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
-### 🚀 Projetos
-
-- **Análise de Vendas:** tratamento e exploração de dados com Python e Pandas.
-- **Business Intelligence:** criação de relatórios e visualização de indicadores.
-
 Confira meus projetos no [GitHub](https://github.com/miguelbarbosa-dev).
 
 ### 📈 Estatísticas do GitHub
