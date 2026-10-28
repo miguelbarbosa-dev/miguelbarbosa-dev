@@ -1,50 +1,53 @@
-# 👨‍💻 Miguel Barbosa
+# Miguel Henrique
 
-**`Estudante de Ciência da Computação | Análise de Dados`**
+**`Análise de Dados | Python | SQL | Power BI`**
 
-Sou estudante de Ciência da Computação e tenho interesse em análise de dados, Python e automação de processos. Busco desenvolver minhas habilidades por meio de estudos e projetos práticos, utilizando ferramentas para organizar, tratar, analisar e visualizar dados.
+Atuo no desenvolvimento de projetos práticos voltados à análise de dados, utilizando Python, Pandas, SQL, Power BI e Excel para organizar, tratar e visualizar informações. Tenho interesse em transformar dados em insights relevantes, identificar padrões e desenvolver soluções que contribuam para a tomada de decisões.
 
-Atualmente, estou aprimorando meus conhecimentos em **Python, Pandas, SQL, Power BI e Excel**, com foco na construção de projetos que transformem dados em informações úteis para a tomada de decisões.
+Busco aprimorar continuamente minhas habilidades técnicas por meio de projetos que envolvam tratamento de dados, consultas SQL, análise exploratória e criação de dashboards.
 
 ---
 
-### 📊 Tecnologias e Ferramentas
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-181818?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power_BI-181818?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-181818?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel" />
-  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-30363D?style=for-the-badge&logo=pandas&logoColor=E6EDF3" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-30363D?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-30363D?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-30363D?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-30363D?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel" />
+  <img src="https://img.shields.io/badge/DAX-30363D?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" />
+  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" />
 </p>
 
 ---
 
-### 🧠 Conhecimentos em desenvolvimento
+### 📊 Competências Técnicas
 
-- **Python e Pandas:** manipulação, limpeza e organização de dados.
-- **SQL e MySQL:** consultas e fundamentos de bancos de dados relacionais.
-- **Power BI:** criação de relatórios e visualizações de dados.
-- **Excel:** organização de dados, fórmulas e análise de informações.
-- **DAX:** estudo de fórmulas e medidas para relatórios.
-- **Git e GitHub:** versionamento e organização de projetos.
+- **Análise de Dados:** análise exploratória, identificação de padrões e interpretação de informações.
+- **Python e Pandas:** limpeza, tratamento, transformação e manipulação de dados.
+- **SQL e MySQL:** consultas, filtros, ordenação e extração de informações em bancos de dados.
+- **Power BI:** criação de relatórios visuais, dashboards e indicadores.
+- **Excel:** organização de bases, fórmulas e análise de informações.
+- **DAX:** criação de medidas e cálculos para relatórios analíticos.
+- **Git e GitHub:** versionamento e documentação de projetos.
 
 ---
 
-### 🚀 Projetos
+### 🚀 Projetos em Destaque
 
-Tenho interesse em desenvolver projetos práticos envolvendo:
+**Análise de Vendas de Supermercado**
+- Exploração e tratamento de bases de dados utilizando Python e Pandas.
+- Identificação de inconsistências e preparação dos dados para análise.
+- Desenvolvimento de análises para extrair informações relevantes.
 
-- Análise de vendas e desempenho de produtos.
-- Limpeza e tratamento de dados inconsistentes.
-- Consultas SQL para extração de informações.
-- Dashboards e indicadores utilizando Power BI.
-- Automação de tarefas com Python.
+**Projetos de Business Intelligence**
+- Organização de indicadores e informações para visualização.
+- Desenvolvimento de relatórios com foco em clareza e interpretação dos dados.
 
-Você pode encontrar meus projetos e acompanhar minha evolução no meu [GitHub](https://github.com/miguelbarbosa-dev).
+Confira os projetos disponíveis no meu [GitHub](https://github.com/miguelbarbosa-dev).
 
 ---
 
@@ -57,8 +60,6 @@ Você pode encontrar meus projetos e acompanhar minha evolução no meu [GitHub]
 
 ---
 
-### 🎯 Objetivo
+### 🎯 Foco Profissional
 
-Conquistar uma oportunidade inicial na área de tecnologia, aplicar meus conhecimentos em projetos reais e continuar evoluindo em análise de dados, Python e SQL.
-
-**Aprendendo, praticando e construindo um projeto de cada vez.**
+Análise de Dados • Python • SQL • Power BI • Excel • Visualização de Dados • Automação de Processos
