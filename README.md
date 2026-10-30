@@ -1,6 +1,6 @@
 # 👨‍💻 Miguel Henrique
 
-**`Análise de Dados | Python | SQL | Power BI`**
+**`Análise de Dados | Python | SQL | Power BI | Excel`**
 
 Tenho interesse em transformar dados em informações relevantes por meio de análise, visualização e automação. Utilizo projetos práticos para aprimorar minhas habilidades em Python, Pandas, SQL, Power BI e Excel.
 
