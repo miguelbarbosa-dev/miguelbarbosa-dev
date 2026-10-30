@@ -21,7 +21,9 @@ Confira meus projetos no [GitHub](https://github.com/miguelbarbosa-dev).
 
 ### 📈 Estatísticas do GitHub
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguelbarbosa-dev&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbarbosa-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+<p align="center">
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=miguelbarbosa-dev&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelbarbosa-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
 </p>
+
